@@ -1,0 +1,8 @@
+Origin: nanato12
+Label: nanato12
+Suite: stable
+Version: 1.0
+Codename: nanato12
+Architectures: iphoneos-arm
+Components: main
+Description: nanato12 repository
