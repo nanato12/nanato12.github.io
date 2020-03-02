@@ -1,0 +1,111 @@
+/*
+
+  CopyRight: nanato12
+
+  Github: https://github.com/nanato12/
+  Website: https://blog.nanato12.info/
+  Cydia repo: https://nanato12.github.io/
+
+*/
+
+* {
+  margin:0;
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+}
+
+body {
+  background:url(images/bg.jpg);
+  color: #000;
+  font-size: 10;
+  font-family:Helvetica;
+  font-weight: bold;
+}
+
+img#icon {
+  height: 30px;
+  width: 30px;
+  margin-right: 5px;
+}
+
+img#arrow {
+  height: 18px;
+  width: 15px;
+  margin-left: auto;
+}
+
+img#screenshot {
+  margin-top: 20px;
+  border: solid #ccc;
+  width: 60%;
+}
+
+label {
+  margin-left: 20px;
+  color:#4d4d70;
+}
+
+
+div#field {
+  margin-top: 20px;
+}
+
+div#img-in-cell {
+  margin-top: 7px;
+  display: flex;
+  align-items: center;
+  background: #fff;
+  border: solid #ccc;
+  border-width: 1px 0px 1px 0px;
+  padding: 5px 12px 5px 10px;
+}
+
+div#cell {
+  margin-top: 7px;
+  display: flex;
+  align-items: center;
+  background: #fff;
+  border: solid #ccc;
+  border-width: 1px 0px 1px 0px;
+  padding: 11px 12px 11px;
+}
+
+div#screenshot {
+  margin-top: 7px;
+  text-align: center;
+  background: #fff;
+  border: solid #ccc;
+  border-width: 1px 0px 1px 0px;
+  padding: 11px 12px 11px;
+}
+
+div#cation {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #fee;
+  border: solid #ccc;
+  border-width: 0px 0px 1px 0px;
+  padding: 11px 12px 11px;
+  font-weight: normal;
+}
+
+div#main {
+  width : 100%;
+  margin-bottom: 50px;
+}
+
+div#footer {
+  margin-top: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(0,0,0,0.5);
+  height: 40px;
+  color: #000;
+  font-size: 20px;
+  text-shadow: 1px 1px 10px #fff;
+}
