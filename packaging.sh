@@ -3,7 +3,7 @@
 git pull
 
 apt-ftparchive packages ./debs > Packages
-bzip2 -k Packages
+bzip2 -kf Packages
 gzip -c Packages > Packages.gz
 
 git add .
