@@ -94,3 +94,27 @@ Sponsor:
 dev: nanato12 <admin@nanato12.info>
 Icon: file:///Library/PreferenceBundles/LineToolsPreference.bundle/icon.png
 
+Package: info.nanato12.linetools2
+Architecture: iphoneos-arm
+Version: 1.4
+Section: Tweaks
+Maintainer: nanato12 <admin@nanato12.info>
+Installed-Size: 520
+Depends: mobilesubstrate
+Conflicts: com.bluesquare.linetools
+Filename: ./debs/info.nanato12.linetools2_1.4_iphoneos-arm.deb
+Size: 54558
+MD5sum: 6c1ec14b73bfdea05dfd5e4f3612f456
+SHA1: bb9f4ca3009286fadcd8822c0db321492fe6aa6d
+SHA256: 68a88bc755e81572eddf4c63806a9961f3ab6096688bd7929ed1d9d00d2b2e91
+SHA512: b881b0e7449d4406c490052e0555d0c0a8f958802fdea10b9409950ec58eedb0d639f9cfd6c261d4c52ec5669c653979b4e139c3985823fbbfea0e3239c25070
+Homepage: https://nanato12.info
+Description: LINE more extention tool.
+Tag: purpose::extension
+Author: nanato12 <admin@nanato12.info>
+Name: LINE Tools 2
+Depiction: https://blog.nanato12.info/658/
+Sponsor:
+dev: nanato12 <admin@nanato12.info>
+Icon: file:///Library/PreferenceBundles/LineToolsPreference.bundle/icon.png
+
