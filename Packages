@@ -103,11 +103,11 @@ Installed-Size: 520
 Depends: mobilesubstrate
 Conflicts: com.bluesquare.linetools
 Filename: ./debs/info.nanato12.linetools2_1.4_iphoneos-arm.deb
-Size: 54558
-MD5sum: 6c1ec14b73bfdea05dfd5e4f3612f456
-SHA1: bb9f4ca3009286fadcd8822c0db321492fe6aa6d
-SHA256: 68a88bc755e81572eddf4c63806a9961f3ab6096688bd7929ed1d9d00d2b2e91
-SHA512: b881b0e7449d4406c490052e0555d0c0a8f958802fdea10b9409950ec58eedb0d639f9cfd6c261d4c52ec5669c653979b4e139c3985823fbbfea0e3239c25070
+Size: 55402
+MD5sum: f165e069756fc729855c104c30a8492e
+SHA1: b77ca0b5a41a174cb1f6e2812a3137cfeeadcc4f
+SHA256: 436060557cd17c8930ea69da537b7fb300e586626df1ee85fc458b62e7b7c726
+SHA512: 6f9f48d7fd5e37b0595c309761e55a0fcf2c48cb6d1e380175675eef85d657119e71e43a64e85166dd6ec598aa7657703b2df13809c94314b16f3d1c84eed20d
 Homepage: https://nanato12.info
 Description: LINE more extention tool.
 Tag: purpose::extension
